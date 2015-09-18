@@ -1,11 +1,11 @@
 
 
 # Site Settings
-title: 						"EckoThemes"
-email: 						"support@ecko.me"
+title: 						"benohara.com"
+email: 						"support@benohara.com"
 description: 				"Astro is a content focused responsive theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
 baseurl: 					""
-url: 						"http://astrojek.ecko.me"
+url: 						"http://benohara.com"
 logourl: 					"/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
